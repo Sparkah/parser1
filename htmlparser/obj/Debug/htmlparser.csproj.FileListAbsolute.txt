@@ -1,0 +1,6 @@
+/Users/timpie/Projects/htmlparser/htmlparser/bin/Debug/htmlparser.exe
+/Users/timpie/Projects/htmlparser/htmlparser/bin/Debug/htmlparser.pdb
+/Users/timpie/Projects/htmlparser/htmlparser/obj/Debug/htmlparser.csproj.AssemblyReference.cache
+/Users/timpie/Projects/htmlparser/htmlparser/obj/Debug/htmlparser.csproj.CoreCompileInputs.cache
+/Users/timpie/Projects/htmlparser/htmlparser/obj/Debug/htmlparser.exe
+/Users/timpie/Projects/htmlparser/htmlparser/obj/Debug/htmlparser.pdb
